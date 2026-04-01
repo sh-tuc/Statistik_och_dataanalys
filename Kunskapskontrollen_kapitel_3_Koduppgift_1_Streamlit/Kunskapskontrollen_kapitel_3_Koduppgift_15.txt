@@ -1,0 +1,3 @@
+C) Modellen skulle kunna användas i verkligheten för att uppskatta vad en bil är värd. Till exempel skulle den kunna användas på hemsidor där man säljer bilar eller av bilhandlare för att få en snabb prisbedömning. Den kan vara till hjälp både för säljare som vill sätta ett rimligt pris och för köpare som vill veta om priset är rimligt.
+
+Samtidigt är modellen ganska enkel och tar inte hänsyn till alla faktorer som kan påverka priset, som till exempel bilens skick eller extra utrustning. Därför skulle man i verkligheten behöva mer data och mer avancerade modeller för att få mer exakta resultat.
